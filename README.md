@@ -1,2 +1,2 @@
-# My1stProject
+# My1stMLProject
  Taxi-fare prediciton project.
