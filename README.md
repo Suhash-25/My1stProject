@@ -1,2 +1,2 @@
 # My1stProject
- Rockpapersicissor game
+ Taxi-fare prediciton project.
